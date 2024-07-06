@@ -1,7 +1,15 @@
 # Identicon
 
-**TODO: Add description**
+**TODO:**
 
+```elixir
+```
+> iex -S mix
+
+iex(1)> Identicon.main("random_name")
+
+```
+```
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
